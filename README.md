@@ -7,3 +7,4 @@
 #### 五、logistic 回归（二分类）
 #### 六、AdaBoost (基函数即弱分类器是树桩)
 #### 七、EM（三硬币模型。。。）
+#### 八、SVM（kernel=linear or poly + smo序列最小最优化学习算法）
