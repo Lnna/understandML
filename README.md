@@ -8,3 +8,5 @@
 #### 六、AdaBoost (基函数即弱分类器是树桩)
 #### 七、EM（三硬币模型。。。）
 #### 八、SVM（kernel=linear or poly + smo序列最小最优化学习算法）
+#### 九、HMM（基本照抄https://applenob.github.io/hmm.html，TODO）
+#### 十、CRF（TODO）
